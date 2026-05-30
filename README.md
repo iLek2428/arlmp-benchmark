@@ -83,8 +83,7 @@ pip install pyyaml toml tiktoken scipy matplotlib jupyter
 ## Pre-registration
 
 OSF study registration: [INSERT OSF URL AFTER REGISTRATION]
-Zenodo archive DOI: [INSERT ZENODO DOI AFTER DEPOSITION]
-
+Zenodo archive DOI: https://doi.org/10.5281/zenodo.20468827
 ---
 
 ## Reproducibility
