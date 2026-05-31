@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "ARLMP Benchmark v1.0 — Full Experimental Data Release"
+abstract: >
+  Complete dataset, scripts, and results from the ARLMP serialization
+  benchmark study evaluating seven metadata serialization formats
+  (JSON, minJSON, YAML, TOML, TOON, Markdown, ARLMP-Min) across
+  616 resolved public-web URLs and 54,591 API calls with three
+  large language models (GPT-5.4 mini, Claude Sonnet 4.6,
+  DeepSeek-V4 Pro) on four agentic decision tasks.
+authors:
+  - family-names: Kulworatit
+    given-names: Chaichana
+    affiliation: "Department of Industrial Education, King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok 10520, Thailand"
+    email: 62603012@kmitl.ac.th
+  - family-names: Sattabut
+    given-names: Damrongsak
+    affiliation: "Independent researcher; san.st experimental URL-shortening testbed, Chiang Mai 50000, Thailand"
+    email: damrongsaks@lanna.co.th
+repository-code: "https://github.com/iLek2428/arlmp-benchmark"
+url: "https://github.com/iLek2428/arlmp-benchmark"
+doi: 10.5281/zenodo.20473254
+version: "1.0.0"
+date-released: "2026-05-31"
+license: CC-BY-4.0
+keywords:
+  - agentic web
+  - URL shorteners
+  - structured metadata
+  - token efficiency
+  - ARLMP
+  - serialization benchmark
+  - large language models
+  - sustainable computing
+  - link safety
+  - YAML
+  - JSON
+  - TOON
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20473254
+    description: "Zenodo archive DOI"
+  - type: url
+    value: "https://github.com/iLek2428/arlmp-benchmark/releases/tag/Main"
+    description: "GitHub Release"
+preferred-citation:
+  type: article
+  title: >
+    Minimum-Sufficient Link Metadata for Sustainable Agentic Web
+    Infrastructure: Token, Latency, and Decision-Reliability
+    Trade-offs in Short-Link Resolution
+  authors:
+    - family-names: Kulworatit
+      given-names: Chaichana
+      affiliation: "Department of Industrial Education, King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok 10520, Thailand"
+    - family-names: Sattabut
+      given-names: Damrongsak
+      affiliation: "Independent researcher; san.st experimental URL-shortening testbed, Chiang Mai 50000, Thailand"
+  journal: "Nexus (Cell Press)"
+  year: 2026
+  url: "https://github.com/iLek2428/arlmp-benchmark"
