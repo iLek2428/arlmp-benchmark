@@ -1,0 +1,51 @@
+{
+  "json": {
+    "n_calls": 7798,
+    "accuracy": 0.7279,
+    "mean_input_tokens": 386.4,
+    "mean_latency_ms": 1984.1,
+    "unsafe_decisions": 114
+  },
+  "json_min": {
+    "n_calls": 7799,
+    "accuracy": 0.7232,
+    "mean_input_tokens": 319.6,
+    "mean_latency_ms": 1937.2,
+    "unsafe_decisions": 112
+  },
+  "yaml": {
+    "n_calls": 7802,
+    "accuracy": 0.7369,
+    "mean_input_tokens": 322.5,
+    "mean_latency_ms": 1961.9,
+    "unsafe_decisions": 120
+  },
+  "toml": {
+    "n_calls": 7796,
+    "accuracy": 0.7273,
+    "mean_input_tokens": 340.9,
+    "mean_latency_ms": 2005.8,
+    "unsafe_decisions": 121
+  },
+  "toon": {
+    "n_calls": 7799,
+    "accuracy": 0.7232,
+    "mean_input_tokens": 336.0,
+    "mean_latency_ms": 1997.1,
+    "unsafe_decisions": 123
+  },
+  "markdown": {
+    "n_calls": 7794,
+    "accuracy": 0.7176,
+    "mean_input_tokens": 357.1,
+    "mean_latency_ms": 2011.1,
+    "unsafe_decisions": 112
+  },
+  "arlmp_min": {
+    "n_calls": 7799,
+    "accuracy": 0.7082,
+    "mean_input_tokens": 128.8,
+    "mean_latency_ms": 1811.7,
+    "unsafe_decisions": 136
+  }
+}
